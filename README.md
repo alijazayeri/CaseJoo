@@ -1,5 +1,5 @@
 # CaseJoo
-CaseJoo: A Pipeline and R Library For Detection of Disease-causing Genes in Rare Genetic Disorders
+## CaseJoo: A Pipeline and R Library For Detection of Disease-causing Genes in Rare Genetic Disorders
 
 This work is presented as a poster presentation at the ACMG 2019 Conference.
 
