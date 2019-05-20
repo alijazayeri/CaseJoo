@@ -35,9 +35,8 @@ sample_similarity <- prioritize_genes(potential_gene,sample_query,sample_keys)
 This function returns a list of two data frame. The first data frame includes the rows corresponding to each paper retrieved successfully, the name of the related gene, and (cosine) TF-IDF-based similarity calculated between each paper and the keywords. The second data frame includes one row for each gene including the name of the gene and the mean of similarities grouped over all the papers related to the gene.
 
 Finally, the outcome of the search can be visualized as follows:
-
 <p align="center">
-  <img width="300" height="300" src="(https://github.com/alijazayeri/CaseJoo/blob/master/Sample_viz.png">
+  <img src="https://github.com/alijazayeri/CaseJoo/blob/master/Sample_viz.png?raw=true">
 </p>
 
 In general, we can prioritize the genes as the following order:
