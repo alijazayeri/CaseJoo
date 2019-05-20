@@ -28,6 +28,7 @@ sample_search <- retrieve_genes(sample_genes,sample_query)
 Finally, the `prioritize_genes` function can be used for gene-wise calculation of similarity of papers for each gene and the keywords representing the clinical condition of the patient. 
 
 ```R
+potential_gene <- sample_search$gene
 sample_similarity <- prioritize_genes(potential_gene,sample_query,sample_keys)
 ```
 
@@ -35,7 +36,7 @@ This function returns a list of two data frame. The first data frame includes th
 
 Finally, the outcome of the search then can be visualized, as follows:
 
-
+![alt text](https://github.com/alijazayeri/CaseJoo/blob/master/Sample_viz.png)
 
 
 In general, we can prioritize the genes as the following order:
