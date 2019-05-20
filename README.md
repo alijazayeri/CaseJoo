@@ -39,7 +39,7 @@ Finally, the outcome of the search can be visualized as follows:
   <img src="https://github.com/alijazayeri/CaseJoo/blob/master/Sample_viz.png?raw=true">
 </p>
 
-In general, we can prioritize the genes as the following order:
+In general, we can prioritize genes based on the following order:
 - Genes with higher numbers of papers and higher values of similarity
 - Genes with lower numbers of papers/higher values of similarity (or the other way around)
 - Genes with lower numbers of papers/lower values of similarity
