@@ -1,9 +1,9 @@
 # CaseJoo
 ## CaseJoo: A Pipeline and R Library For Detection of Disease-causing Genes in Rare Genetic Disorders
 
-This work is presented as a poster presentation at the ACMG 2019 Conference.
+This work is presented as a poster at the 2019 ACMG Conference (S Pajouhanfar, A. Jazayeri, M. Faghankhani, H. Vahidnezhad, L. Youssefian, S. Sotoudeh, S. Zeinali, J. Uitto, "CaseJoo: A Pipeline and R Library For Detection of Disease-causing Genes in Rare Genetic Disorders", 2019 ACMG Annual Clinical Genetics Meeting, Seattle, Washington.).
 
-The big picture is to find genes-diseases associations not very well-known already but their association indirectly and textually mentioned in the paper(s). 
+The big picture is to find genes-diseases associations not very well-known already but indirectly and textually mentioned/discussed in the literature. 
 CaseJoo prioritizes genes based on available papers for each gene in the `PubMed` and the similarity of the title/abstract of each gene's papers to the clinical manifestation and/or phenotypes of the patient. 
 
 The inputs are a set of genes and a set of keywords. The set of genes can be the outcome of a variant discovery pipeline, and the set of keywords are clinical manifestations of the patient in the textual format. For example:
