@@ -37,7 +37,7 @@ This function returns a list of two data frame. The first data frame includes th
 Finally, the outcome of the search can be visualized as follows:
 
 <p align="center">
-![alt text](https://github.com/alijazayeri/CaseJoo/blob/master/Sample_viz.png)
+  <img width="300" height="300" src="(https://github.com/alijazayeri/CaseJoo/blob/master/Sample_viz.png">
 </p>
 
 In general, we can prioritize the genes as the following order:
