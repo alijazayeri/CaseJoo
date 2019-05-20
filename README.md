@@ -40,6 +40,6 @@ Finally, the outcome of the search can be visualized as follows:
 </p>
 
 In general, we can prioritize the genes as the following order:
-- Genes with higher numbers of papers and with higher values of similarity
+- Genes with higher numbers of papers and higher values of similarity
 - Genes with lower numbers of papers/higher values of similarity (or the other way around)
 - Genes with lower numbers of papers/lower values of similarity
